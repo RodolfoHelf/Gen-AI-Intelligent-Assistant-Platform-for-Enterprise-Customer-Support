@@ -1,0 +1,118 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Enterprise AI Assistant",
+    "description": "Advanced AI-powered customer support platform with multi-agent architecture",
+    "category": "software",
+    "price": 999.99,
+    "currency": "USD",
+    "features": [
+      "Multi-agent AI system",
+      "Real-time sentiment analysis",
+      "Automated escalation management",
+      "Custom knowledge base",
+      "Analytics dashboard",
+      "API integration"
+    ],
+    "specifications": {
+      "max_concurrent_users": 1000,
+      "response_time": "< 2 seconds",
+      "uptime": "99.9%",
+      "languages": ["English", "Spanish", "French", "German"],
+      "integrations": ["Slack", "Teams", "Zendesk", "Salesforce"]
+    },
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "prod_002",
+    "name": "Business Intelligence Dashboard",
+    "description": "Comprehensive analytics and reporting platform for customer insights",
+    "category": "software",
+    "price": 499.99,
+    "currency": "USD",
+    "features": [
+      "Real-time analytics",
+      "Custom reports",
+      "Data visualization",
+      "Export capabilities",
+      "Scheduled reports",
+      "Mobile responsive"
+    ],
+    "specifications": {
+      "data_sources": ["SQL", "NoSQL", "APIs", "CSV"],
+      "refresh_rate": "Real-time",
+      "max_data_points": 1000000,
+      "export_formats": ["PDF", "Excel", "CSV", "JSON"]
+    },
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "prod_003",
+    "name": "Cloud Storage Pro",
+    "description": "Secure cloud storage solution with advanced encryption and backup",
+    "category": "infrastructure",
+    "price": 29.99,
+    "currency": "USD",
+    "features": [
+      "End-to-end encryption",
+      "Automatic backup",
+      "Version control",
+      "File sharing",
+      "Mobile access",
+      "Offline sync"
+    ],
+    "specifications": {
+      "storage_capacity": "1TB",
+      "encryption": "AES-256",
+      "backup_frequency": "Real-time",
+      "file_size_limit": "10GB"
+    },
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "prod_004",
+    "name": "API Gateway",
+    "description": "High-performance API management and gateway service",
+    "category": "infrastructure",
+    "price": 199.99,
+    "currency": "USD",
+    "features": [
+      "Rate limiting",
+      "Authentication",
+      "Monitoring",
+      "Documentation",
+      "Versioning",
+      "Analytics"
+    ],
+    "specifications": {
+      "requests_per_second": 10000,
+      "latency": "< 50ms",
+      "uptime": "99.99%",
+      "supported_protocols": ["REST", "GraphQL", "gRPC"]
+    },
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "prod_005",
+    "name": "Security Suite",
+    "description": "Comprehensive security solution for enterprise protection",
+    "category": "security",
+    "price": 399.99,
+    "currency": "USD",
+    "features": [
+      "Threat detection",
+      "Firewall protection",
+      "VPN access",
+      "Audit logging",
+      "Compliance reporting",
+      "24/7 monitoring"
+    ],
+    "specifications": {
+      "threat_detection_rate": "99.9%",
+      "false_positive_rate": "< 0.1%",
+      "compliance": ["SOC 2", "GDPR", "HIPAA", "PCI DSS"],
+      "response_time": "< 5 minutes"
+    },
+    "last_updated": "2024-01-15"
+  }
+] 

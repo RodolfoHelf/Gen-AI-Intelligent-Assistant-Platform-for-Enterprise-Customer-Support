@@ -1,0 +1,48 @@
+# Core dependencies
+python-dotenv==1.0.0
+openai==1.3.0
+langchain==0.0.350
+langchain-openai==0.0.2
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.3.2
+xgboost==2.0.2
+
+# Database and storage
+sqlalchemy==2.0.23
+pymongo==4.6.0
+boto3==1.34.0
+
+# Web framework and dashboard
+streamlit==1.28.2
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+pydantic==2.5.0
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Optional: TensorFlow for advanced ML
+# tensorflow==2.15.0
+
+# Optional: PySpark for big data
+# pyspark==3.5.0
+
+# Optional: Airflow for orchestration
+# apache-airflow==2.8.1
+
+# Optional: Prefect for workflow management
+# prefect==2.14.0 

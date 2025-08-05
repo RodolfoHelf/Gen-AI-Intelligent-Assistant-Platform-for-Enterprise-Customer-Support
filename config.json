@@ -1,0 +1,55 @@
+{
+  "openai_api_key": "",
+  "model": "gpt-4",
+  "temperature": 0.7,
+  "max_tokens": 1000,
+  "knowledge_base_path": "data/knowledge_base",
+  "agents": {
+    "customer_support": {
+      "enabled": true,
+      "model": "gpt-4",
+      "temperature": 0.7
+    },
+    "troubleshooting": {
+      "enabled": true,
+      "model": "gpt-4",
+      "temperature": 0.5
+    },
+    "escalation": {
+      "enabled": true,
+      "model": "gpt-4",
+      "temperature": 0.3
+    },
+    "knowledge": {
+      "enabled": true,
+      "model": "gpt-4",
+      "temperature": 0.6
+    }
+  },
+  "ml_models": {
+    "sentiment_analyzer": {
+      "enabled": true,
+      "model_path": "models/sentiment_model.pkl"
+    },
+    "intent_classifier": {
+      "enabled": true,
+      "model_path": "models/intent_model.pkl"
+    },
+    "response_quality_assessor": {
+      "enabled": true,
+      "model_path": "models/quality_model.pkl"
+    }
+  },
+  "database": {
+    "type": "sqlite",
+    "path": "data/assistant.db"
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/assistant.log"
+  },
+  "dashboard": {
+    "port": 8501,
+    "host": "localhost"
+  }
+} 

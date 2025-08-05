@@ -1,0 +1,82 @@
+[
+  {
+    "id": "faq_001",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, go to the login page and click 'Forgot Password'. Enter your email address and follow the instructions sent to your email. The reset link will expire in 24 hours.",
+    "category": "account",
+    "tags": ["password", "login", "security"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_002",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers. For enterprise customers, we also offer invoice-based billing with net 30 terms.",
+    "category": "billing",
+    "tags": ["payment", "billing", "credit card"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_003",
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel your subscription at any time by going to Account Settings > Subscription > Cancel. Your access will continue until the end of your current billing period. No refunds are provided for partial months.",
+    "category": "billing",
+    "tags": ["subscription", "cancel", "billing"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_004",
+    "question": "What are your business hours?",
+    "answer": "Our customer support team is available Monday through Friday, 9 AM to 6 PM EST. For urgent technical issues, we offer 24/7 emergency support for enterprise customers.",
+    "category": "support",
+    "tags": ["hours", "support", "contact"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_005",
+    "question": "How do I update my billing information?",
+    "answer": "To update your billing information, go to Account Settings > Billing > Payment Methods. You can add, edit, or remove payment methods. Changes take effect immediately for future charges.",
+    "category": "billing",
+    "tags": ["billing", "payment", "account"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_006",
+    "question": "What is your refund policy?",
+    "answer": "We offer a 30-day money-back guarantee for new subscriptions. If you're not satisfied, contact our support team within 30 days of your first payment for a full refund. Enterprise customers should refer to their service agreement.",
+    "category": "billing",
+    "tags": ["refund", "money back", "guarantee"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_007",
+    "question": "How do I contact technical support?",
+    "answer": "You can contact technical support through our help desk portal, by email at support@company.com, or by phone at 1-800-SUPPORT. For urgent issues, enterprise customers can use our priority support line.",
+    "category": "support",
+    "tags": ["support", "contact", "technical"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_008",
+    "question": "What browsers are supported?",
+    "answer": "We support Chrome 90+, Firefox 88+, Safari 14+, and Edge 90+. For the best experience, we recommend using the latest version of Chrome or Firefox.",
+    "category": "technical",
+    "tags": ["browser", "compatibility", "technical"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_009",
+    "question": "How do I export my data?",
+    "answer": "You can export your data by going to Account Settings > Data Export. Choose the format (CSV, JSON, or Excel) and date range. Large exports may take up to 24 hours to process.",
+    "category": "data",
+    "tags": ["export", "data", "download"],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "faq_010",
+    "question": "Is my data secure?",
+    "answer": "Yes, we use industry-standard encryption (AES-256) for data at rest and TLS 1.3 for data in transit. We're SOC 2 Type II certified and GDPR compliant. Your data is never shared with third parties without your explicit consent.",
+    "category": "security",
+    "tags": ["security", "privacy", "encryption"],
+    "last_updated": "2024-01-15"
+  }
+] 

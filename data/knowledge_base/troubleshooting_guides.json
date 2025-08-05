@@ -1,0 +1,210 @@
+[
+  {
+    "id": "trouble_001",
+    "title": "Device Won't Turn On",
+    "category": "hardware",
+    "severity": "high",
+    "estimated_time": "10-15 minutes",
+    "common_causes": [
+      "Dead battery",
+      "Faulty power adapter",
+      "Hardware failure",
+      "Software crash"
+    ],
+    "steps": [
+      "Check if the device is plugged in",
+      "Try a different power outlet",
+      "Test with a different power adapter",
+      "Hold the power button for 10 seconds",
+      "If still not working, contact technical support"
+    ],
+    "precautions": [
+      "Don't attempt to open the device",
+      "Avoid using third-party chargers",
+      "Keep the device away from water"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_002",
+    "title": "Wi-Fi Connection Problems",
+    "category": "network",
+    "severity": "medium",
+    "estimated_time": "5-10 minutes",
+    "common_causes": [
+      "Router issues",
+      "Incorrect password",
+      "Signal interference",
+      "Driver problems"
+    ],
+    "steps": [
+      "Restart your router",
+      "Check if other devices can connect",
+      "Forget and reconnect to the network",
+      "Update network drivers",
+      "Move closer to the router"
+    ],
+    "precautions": [
+      "Don't share your Wi-Fi password",
+      "Use WPA2 or WPA3 security",
+      "Keep router firmware updated"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_003",
+    "title": "Slow Device Performance",
+    "category": "performance",
+    "severity": "medium",
+    "estimated_time": "15-20 minutes",
+    "common_causes": [
+      "Too many open applications",
+      "Low storage space",
+      "Malware infection",
+      "Outdated software"
+    ],
+    "steps": [
+      "Close unnecessary applications",
+      "Clear temporary files",
+      "Run a virus scan",
+      "Update software and drivers",
+      "Consider upgrading RAM or storage"
+    ],
+    "precautions": [
+      "Regularly backup important data",
+      "Don't download from untrusted sources",
+      "Keep software updated"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_004",
+    "title": "Battery Draining Quickly",
+    "category": "hardware",
+    "severity": "medium",
+    "estimated_time": "10 minutes",
+    "common_causes": [
+      "High brightness settings",
+      "Background apps",
+      "Old battery",
+      "Power-hungry applications"
+    ],
+    "steps": [
+      "Reduce screen brightness",
+      "Close background applications",
+      "Disable unnecessary features",
+      "Check battery health",
+      "Update to latest software"
+    ],
+    "precautions": [
+      "Avoid extreme temperatures",
+      "Don't overcharge the battery",
+      "Use original charger"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_005",
+    "title": "App Crashes or Freezes",
+    "category": "software",
+    "severity": "medium",
+    "estimated_time": "5-10 minutes",
+    "common_causes": [
+      "Software bugs",
+      "Insufficient memory",
+      "Corrupted app data",
+      "Incompatible updates"
+    ],
+    "steps": [
+      "Force close the application",
+      "Restart the device",
+      "Clear app cache and data",
+      "Update the application",
+      "Reinstall the app if necessary"
+    ],
+    "precautions": [
+      "Regularly update apps",
+      "Don't install from untrusted sources",
+      "Keep device storage free"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_006",
+    "title": "Screen Display Issues",
+    "category": "hardware",
+    "severity": "high",
+    "estimated_time": "10-15 minutes",
+    "common_causes": [
+      "Loose cable connections",
+      "Graphics driver issues",
+      "Hardware damage",
+      "Resolution settings"
+    ],
+    "steps": [
+      "Check cable connections",
+      "Update graphics drivers",
+      "Adjust display settings",
+      "Test with external monitor",
+      "Contact support if hardware issue"
+    ],
+    "precautions": [
+      "Handle cables carefully",
+      "Avoid physical damage",
+      "Use surge protectors"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_007",
+    "title": "Audio Problems",
+    "category": "hardware",
+    "severity": "low",
+    "estimated_time": "5-10 minutes",
+    "common_causes": [
+      "Muted audio",
+      "Wrong audio output",
+      "Driver issues",
+      "Hardware damage"
+    ],
+    "steps": [
+      "Check volume and mute settings",
+      "Select correct audio output",
+      "Update audio drivers",
+      "Test with different speakers/headphones",
+      "Check audio settings in applications"
+    ],
+    "precautions": [
+      "Don't use excessive volume",
+      "Keep audio ports clean",
+      "Use quality audio equipment"
+    ],
+    "last_updated": "2024-01-15"
+  },
+  {
+    "id": "trouble_008",
+    "title": "Charging Issues",
+    "category": "hardware",
+    "severity": "medium",
+    "estimated_time": "10 minutes",
+    "common_causes": [
+      "Faulty charger",
+      "Dirty charging port",
+      "Damaged cable",
+      "Software issues"
+    ],
+    "steps": [
+      "Try different charger and cable",
+      "Clean charging port carefully",
+      "Restart the device",
+      "Check for software updates",
+      "Test with different outlet"
+    ],
+    "precautions": [
+      "Use original charging equipment",
+      "Keep charging port clean",
+      "Avoid extreme temperatures"
+    ],
+    "last_updated": "2024-01-15"
+  }
+] 
